@@ -1,0 +1,27 @@
+{
+  "name": "daily-coding-problem",
+  "version": "0.0.1",
+  "description": "Solutions to Daily Coding Problem newsletter.",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indiansage/daily-coding-problem.git"
+  },
+  "keywords": [
+    "interview"
+  ],
+  "author": "indiansage",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indiansage/daily-coding-problem/issues"
+  },
+  "homepage": "https://github.com/indiansage/daily-coding-problem#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.2"
+  }
+}
