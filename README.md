@@ -1,3 +1,3 @@
 # daily-coding-problem
 
-Solutions to Daily Coding Problem in Java and JavaScript.
+Solutions to Daily Coding Problem.
